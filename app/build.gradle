@@ -2,5 +2,5 @@ plugins { id 'com.android.application' }
 android {
  namespace 'com.kral.tkgs'
  compileSdk 35
- defaultConfig { applicationId 'com.kral.tkgs'; minSdk 24; targetSdk 28; versionCode 1; versionName '0.1' }
+ defaultConfig { applicationId 'com.kral.tkgs'; minSdk 24; targetSdk 28; versionCode 2; versionName '0.2' }
 }
